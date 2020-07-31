@@ -6,3 +6,6 @@ D:\Project\DemoWinFormCS\DemoWinFormCS\obj\Debug\DemoWinFormCS.Properties.Resour
 D:\Project\DemoWinFormCS\DemoWinFormCS\obj\Debug\DemoWinFormCS.csproj.GenerateResource.Cache
 D:\Project\DemoWinFormCS\DemoWinFormCS\obj\Debug\DemoWinFormCS.exe
 D:\Project\DemoWinFormCS\DemoWinFormCS\obj\Debug\DemoWinFormCS.pdb
+D:\Project\Demo\DemoWinFormCS\DemoWinFormCS\bin\Debug\DemoWinFormCS.exe.config
+D:\Project\Demo\DemoWinFormCS\DemoWinFormCS\obj\Debug\DemoWinFormCS.exe
+D:\Project\Demo\DemoWinFormCS\DemoWinFormCS\obj\Debug\DemoWinFormCS.pdb
